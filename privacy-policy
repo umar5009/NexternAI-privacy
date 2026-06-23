@@ -1,0 +1,95 @@
+# Privacy Policy
+
+NexternAI  
+Umar Muzaffar  
+`muzaffarumar768@gmail.com`
+
+Last updated: June 23, 2026
+
+Umar Muzaffar ("we", "us", or "our") operates the NexternAI mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the App.
+
+By using the App, you agree to the collection and use of information in accordance with this policy.
+
+## 1. Information We Collect
+
+### Information you provide
+- Profile information such as your name, email, phone, headline, skills, work history, education, and achievements.
+- Resume and cover letter text or files you import, scan, or edit in the App.
+- Job postings, prompts, notes, and application-related content you save.
+- Interview session responses, quiz answers, coding submissions, and prep plan data.
+- Optional Anthropic API key if you choose to add one for enhanced AI features.
+
+### Information collected automatically
+- App usage events (for example: screens viewed, features used, session completion) through Firebase Analytics when enabled.
+- Crash reports and diagnostic data through Firebase Crashlytics when enabled.
+- Push notification device tokens if you grant notification permission.
+- General device and app performance information needed to operate the App.
+
+### Permissions-based data
+- Camera and photo library: to capture or import images of resumes and job postings for text extraction.
+- Microphone and speech recognition: for live AI interview practice when you start a verbal session.
+- Files: to import, export, and save documents such as tailored resumes and cover letters on your device.
+
+## 2. How We Use Your Information
+
+We use collected information to:
+- Provide interview preparation, job tailoring, quizzes, coding practice, and progress tracking.
+- Generate AI-assisted content such as prep plans, feedback, tailored resumes, and cover letters.
+- Improve App reliability, analytics, and crash reporting.
+- Send push notifications you have authorized.
+- Respond to support requests.
+
+## 3. AI and Third-Party Services
+
+The App may use third-party services including:
+- Anthropic (Claude API) when an API key is configured — your prompts and resume-related content may be sent to Anthropic to generate responses.
+- Google Firebase (Analytics, Crashlytics, Cloud Messaging) for analytics, crash reporting, and push notifications.
+- Public job listing sources to display job opportunities.
+
+These providers process data according to their own privacy policies. We encourage you to review their policies.
+
+## 4. Data Storage and Retention
+
+Most personal content (profile, resume, plans, sessions) is stored locally on your device. You may delete this data at any time using "Clear All Data" in Settings.
+
+Analytics and crash data retained by third-party providers are governed by their retention policies.
+
+## 5. Sharing of Information
+
+We do not sell your personal information.
+
+We may share information:
+- With service providers that help us operate the App (for example analytics and AI providers).
+- When required by law or to protect rights, safety, and security.
+- With your direction (for example when you export or share a document).
+
+## 6. Your Choices and Rights
+
+You can:
+- Decline optional permissions (some features may not work without them).
+- Clear App data from Settings.
+- Uninstall the App to remove locally stored data.
+- Contact us to request access, correction, or deletion of information we control.
+
+## 7. Children's Privacy
+
+The App is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe a child has provided us information, contact us and we will take appropriate steps.
+
+## 8. Security
+
+We use reasonable administrative and technical measures to protect your information. No method of transmission or storage is 100% secure.
+
+## 9. International Users
+
+If you use the App from outside your home country, your information may be processed in countries where we or our service providers operate.
+
+## 10. Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will update the "Last updated" date above. Continued use after changes means you accept the updated policy.
+
+## 11. Contact Us
+
+If you have questions about this Privacy Policy, contact:
+
+Umar Muzaffar  
+Email: `muzaffarumar768@gmail.com`
